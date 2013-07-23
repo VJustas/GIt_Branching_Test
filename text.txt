@@ -1,4 +1,4 @@
-Pradinis Failas.
+Pradinis Failas, kuris yra pataisytas
 
 Pirmas Commit
 tolesni commitai master branch
