@@ -2,3 +2,6 @@ Pradinis Failas, kuris yra pataisytas
 
 Pirmas Commit
 tolesni commitai master branch
+
+Naujas Branch-branch1
+commit ant branch1
